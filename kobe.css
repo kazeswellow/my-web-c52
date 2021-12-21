@@ -1,0 +1,28 @@
+body{
+    background-image: url(water\ pokemon.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 25px;
+    color: brown;
+}
+
+h1{
+    font-size: 40px;
+    font-family: cursive;
+    color: white;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    border-radius: 25%;
+    border: 5px cyan solid;
+    margin: 25px;
+    padding: 10px;
+}
